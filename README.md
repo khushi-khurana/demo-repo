@@ -1,4 +1,4 @@
 # Demo
-Some Description!
-This is my first git repository
+Some Description! <br>
+This is my first git repository <br>
 Name of the author: Khushi Khurana
